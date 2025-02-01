@@ -1,0 +1,13 @@
+logger:
+    level: info
+    prefix: '[TeleBaidu]'
+    show_line: true
+    log_in_console: true
+user:
+    bduss: 
+    acclink:
+    useragent: "netdisk;Mo"
+tginfo:
+    bottoken:
+    userid:
+    privacy: true
