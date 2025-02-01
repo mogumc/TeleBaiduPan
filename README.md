@@ -20,6 +20,8 @@ user:
   is_vip: 0
   #奇妙小链接,不清楚就留空
   acclink:
+  #User-Agent,一般情况默认即可
+  useragent: netdisk;Mo
 ```
 ```yaml
 tginfo:
