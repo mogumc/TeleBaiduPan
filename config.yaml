@@ -6,7 +6,7 @@ logger:
 user:
     bduss: 
     acclink:
-    useragent: "netdisk;Mo"
+    useragent: netdisk;Mo
 tginfo:
     bottoken:
     userid:
