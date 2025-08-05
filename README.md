@@ -1,6 +1,8 @@
 # TeleBaiduPan
 基于Telegram Bot的百度网盘管理工具
 
+## 当前项目仍在开发  
+
 ## 安装使用  
 目前支持Linux与Windows部署,其他平台请自行编译运行.  
 在``config.yaml``文件下填写``user``部分信息与``tginfo``部分信息.  
